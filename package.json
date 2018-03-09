@@ -1,0 +1,14 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "Practice page for the Odin Project, for dynamically generating content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A Person of Note",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  }
+}
