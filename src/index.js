@@ -1,4 +1,4 @@
-import createLandingpage from './onLoad'
+import createLandingpage from './landingPage'
 
 //Look into being able to load content from a csv or a word file. It'd be great to basically have a modular
 //website builder with standard pages that you could load copy into easily.
